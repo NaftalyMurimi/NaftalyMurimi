@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naftali
 ===============================================================================================================================
 
-ICT Tutor | Graphic Designer | Web Developer
+ICT Tutor | Graphic Designer | Web Developer | Freelancer
 --------------------------------------------
 
 Meet an enthusiastic learner with a passion for technology and a focus on mastering Django. 🧠 Currently immersed in the world of Django, this individual is on a journey of continuous learning, exploring the intricacies of web development and keenly delving into the Django framework. 🤝 Open to collaboration, I am not just a solo learner but thrives in the collaborative spirit. Whether it's a Django project, a venture into data science, or web design and development initiatives, I am always eager to join forces, share insights, and contribute skills improvement to collective success. Driven by a curiosity for innovation and a commitment to honing their craft, I am a valuable asset to any team or project seeking a dedicated learner and collaborator in the realms of Django, data science, and web design and development. The combination of a growing skill set and a collaborative mindset help me thrive in dynamic and forward-thinking projects. 🚀
