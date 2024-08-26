@@ -6,7 +6,7 @@ ICT Tutor | Graphic Designer | Web Developer | Freelancer
 
 I am an enthusiastic learner with a passion for technology and a focus on mastering Django. 🧠 Currently immersed in the world of Django, I am on a journey of continuous learning, exploring the intricacies of web development and keenly delving into the Django framework. 🤝 Open to collaboration, I am not just a solo learner but thrive in the collaborative spirit. Whether it's a Django project, a venture into data science, or web design and development initiatives, I am always eager to join forces, share insights, and contribute to collective success. Driven by a curiosity for innovation and a commitment to honing my craft, I am a valuable asset to any team or project seeking a dedicated learner and collaborator in the realms of Django, data science, and web design and development. The combination of a growing skill set and a collaborative mindset helps me thrive in dynamic and forward-thinking projects. 🚀
 
-* 🌍  I'm based in Naitobi ,Kenya
+* 🌍  I'm based in Nairobi ,Kenya
 * ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Django project, Data science, web design and development projects
