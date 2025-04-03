@@ -4,9 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ICT Tutor | Graphic Designer | Web Developer | Freelancer
 ---------------------------------------------------------
 
-I am an enthusiastic learner with a passion for technology and a focus on mastering Django. 🧠 Currently immersed in the world of Django, I am on a journey of continuous learning, exploring the intricacies of web development and keenly delving into the Django framework. 🤝 Open to collaboration, I am not just a solo learner but thrive in the collaborative spirit. Whether it's a Django project, a venture into data science, or web design and development initiatives, I am always eager to join forces, share insights, and contribute to collective success. Driven by a curiosity for innovation and a commitment to honing my craft, I am a valuable asset to any team or project seeking a dedicated learner and collaborator in the realms of Django, data science, and web design and development. The combination of a growing skill set and a collaborative mindset helps me thrive in dynamic and forward-thinking projects. 🚀
+I am a dedicated tech enthusiast currently 
+pursuing a Master of Science in Cognitive 
+Technologies at Silesian University of 
+Technology. I have a strong foundation in 
+Information Technology from Murang’a 
+University of Technology where I 
+graduated with first-class honors 
+bachelor’s degree, I am a passionate web 
+developer specializing in Django, PHP and 
+WordPress web development. I am also 
+well equipped for data analysis tasks using 
+Python and R. I have hands-on experience 
+in building dynamic applications, 
+integrating APIs, and solving complex 
+problems. I am passionate about leveraging 
+technology to drive innovation in Industry 
+4.0, Smart City services, machine learning 
+and AI-driven solutions.  🚀
 
-* 🌍  I'm based in Nairobi ,Kenya
+* 🌍  I'm based in Zabrze ,Poland
 * ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Django project, Data science, web design and development projects
