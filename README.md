@@ -25,7 +25,6 @@ and AI-driven solutions.  🚀
 
 * 🌍  I'm based in Zabrze ,Poland
 * ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
-* 🧠  I'm learning R
 * 🤝  I'm open to collaborating on Django project, Data science, web design and development projects
 
 ### Skills
