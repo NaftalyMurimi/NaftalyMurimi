@@ -23,7 +23,7 @@ technology to drive innovation in Industry
 4.0, Smart City services, machine learning 
 and AI-driven solutions.  🚀
 
-* 🌍  I'm based in Zabrze ,Poland
+* 📌  I'm based in Zabrze ,Poland
 * ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
 * 🤝  I'm open to collaborating on Django project, Data science, web design and development projects
 * 🌍  Portifolio <a href="https://naftalymurimi.github.io/naf/"/> Naftali<a/>
