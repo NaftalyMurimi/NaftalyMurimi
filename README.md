@@ -26,7 +26,7 @@ and AI-driven solutions.  🚀
 * 🌍  I'm based in Zabrze ,Poland
 * ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
 * 🤝  I'm open to collaborating on Django project, Data science, web design and development projects
-* Portifolio <a href="https://naftalymurimi.github.io/naf/"/> Naftali<a/>
+* 🌍  Portifolio <a href="https://naftalymurimi.github.io/naf/"/> Naftali<a/>
 
 ### Skills
 
