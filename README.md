@@ -1,31 +1,58 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naftali
 ===============================================================================================================================
 
-ICT Tutor | Graphic Designer | Web Developer | Freelancer
+AI/ML Engineer | Python Developer | Azure Cloud | Generative AI
 ---------------------------------------------------------
 
-I am a dedicated tech enthusiast currently 
-pursuing a Master of Science in Cognitive 
-Technologies at Silesian University of 
-Technology. I have a strong foundation in 
-Information Technology from Murang’a 
-University of Technology where I 
-graduated with first-class honors 
-bachelor’s degree, I am a passionate web 
-developer specializing in Django, PHP and 
-WordPress web development. I am also 
-well equipped for data analysis tasks using 
-Python and R. I have hands-on experience 
-in building dynamic applications, 
-integrating APIs, and solving complex 
-problems. I am passionate about leveraging 
-technology to drive innovation in Industry 
-4.0, Smart City services, machine learning 
-and AI-driven solutions.  🚀
+# Hi, I'm Naftali Murimi Njeri 👋
 
-* 📌  I'm based in Zabrze ,Poland
+I'm an AI Engineer and Python Developer with an MSc in Cognitive Technologies and a BSc in Information Technology.
+
+My work focuses on building practical AI-powered applications using Python, APIs, LLMs, automation, and cloud technologies. I am particularly interested in AI engineering, generative AI, Azure cloud computing, and the development and deployment of intelligent applications.
+
+### 🔧 What I Work With
+
+- **Programming:** Python, SQL, R
+- **AI & Machine Learning:** LLMs, Generative AI, NLP, Classification, Statistical Learning, Transformer Models
+- **AI Applications:** OpenAI API, Gemini API, RAG, Prompt Engineering, AI Agents
+- **Backend:** FastAPI, Django, REST APIs
+- **Cloud & Deployment:** Microsoft Azure, Azure App Service
+- **Databases:** PostgreSQL, Supabase, MySQL
+- **DevOps & Version Control:** Git, GitHub, GitHub Actions
+- **Automation:** n8n, Celery, Redis
+- **Frontend:** React, HTML, CSS, JavaScript
+
+### 🚀 Featured Projects
+
+- 🤖 **AI-Powered Email Manager Agent** — Full-stack AI application using Python, FastAPI, React, PostgreSQL, Celery, Redis, Gmail API, LLMs and Telegram.
+- 🔎 **AI Recruitment Assistant** — RAG-based recruitment assistant using n8n, OpenAI embeddings, Supabase and Google Drive.
+- 🔐 **LLM Security & Privacy Research** — MSc thesis investigating privacy risks, membership inference attacks and mitigation techniques for transformer models using synthetic sensitive data.
+- ☁️ **AI-Enhanced Programming Learning Platform** — Django-based learning platform integrated with OpenAI and deployed on Microsoft Azure App Service.
+
+### 🎓 Education
+
+**MSc Cognitive Technologies**  
+Silesian University of Technology — Poland
+
+**BSc Information Technology — First Class Honours**  
+Murang'a University of Technology — Kenya
+
+### 🔬 Current Interests
+
+- AI Engineering
+- Large Language Models
+- Generative AI
+- AI Security & Privacy
+- NLP
+- Azure Cloud Computing
+- AI Application Development
+- Cloud Deployment & CI/CD
+- Responsible AI
+
+📍 Poland  I'm based in Zabrze ,Poland
+📫 **Email:** nafmurimi@gmail.com  
+🔗 **LinkedIn:** [Naftali Murimi](https://www.linkedin.com/in/naftali-murimi-0293b7262)
 * ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
-* 🤝  I'm open to collaborating on Django project, Data science, web design and development projects
 * 🌍  Portifolio <a href="https://naftalymurimi.github.io/naf/"/> Naftali<a/>
 
 ### Skills
