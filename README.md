@@ -48,8 +48,7 @@ Murang'a University of Technology — Kenya
 📍 Poland  I'm based in Zabrze ,Poland
 📫 **Email:** nafmurimi@gmail.com  
 🔗 **LinkedIn:** [Naftali Murimi](https://www.linkedin.com/in/naftali-murimi-0293b7262)
-* ✉️  You can contact me at [nafmurimi@gmail.com](mailto:nafmurimi@gmail.com)
-* 🌍  Portifolio <a href="https://naftalymurimi.github.io/naf/"/> Naftali<a/>
+🌍Portifolio <a href="https://naftalymurimi.github.io/naf/"/> Naftali<a/>
 
 ### Skills
 
