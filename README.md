@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naftali
 ===============================================================================================================================
-AI/ML Engineer | Python Developer | Azure Cloud | Generative AI
+AI/ML Engineer | Python Developer | Azure Cloud | Generative AI | Data Analyst
 ---------------------------------------------------------
 I'm an AI Engineer and Python Developer with an MSc in Cognitive Technologies and a BSc in Information Technology.
 
@@ -17,6 +17,8 @@ My work focuses on building practical AI-powered applications using Python, APIs
 - **DevOps & Version Control:** Git, GitHub, GitHub Actions
 - **Automation:** n8n, Celery, Redis
 - **Frontend:** React, HTML, CSS, JavaScript
+- **Microsoft Apps:** Ms Excell, Ms Word, Ms Powerpoint
+- **Data Visualization:** Power Bi, Ms Excell, Jupyter Notebook, Matplotlib, Seaborn
 
 ### 🚀 Featured Projects
 
